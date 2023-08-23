@@ -1,0 +1,21 @@
+.numeros {
+    color: rgb(245, 158, 216);
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+h1 {
+    filter: drop-shadow(1px 1px 1px #000000);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 60px;
+    flex-wrap: wrap;
+}
